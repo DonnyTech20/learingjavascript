@@ -1,0 +1,1 @@
+A really awesome course if you want to learn and understand ever aspect of Javscript from Linkedin.
